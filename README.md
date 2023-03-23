@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 💬 Ask me about **NodeJS , Hbs**
+- 💬 Ask me about **ReactJS , NodeJS , MongoDB , Hbs**
 
 - 📫 How to reach me **ajmalksq@gmail.com**
 
